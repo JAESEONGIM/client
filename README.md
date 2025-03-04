@@ -35,7 +35,7 @@
 
 ## 🪧  Back-end 아키텍처
 
-![스크린샷 2024-10-02 오후 9.50.40.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e07080e7-0a8f-4ac5-9a5e-164fb7140a90/8407525e-f84a-4950-88b4-9bd2872c7884/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-10-02_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.50.40.png)
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/7680ff42-427a-4cd4-ac1c-09bbe8aafec9" />
 
 ## 💡 어려웠던 부분과 해결
 
